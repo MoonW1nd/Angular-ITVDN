@@ -2,26 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="316650aa-b806-433c-9ba6-37fc5429a5a5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/000_HelloWorld.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/000_HelloWorld.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/001_GetInput.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/001_GetInput.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/002_CoursePlanner_Static.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/002_CoursePlanner_Static.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/003_CoursePlanner_AngularJS.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/003_CoursePlanner_AngularJS.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/004_CoursePlanner_AngularJS_Repeat.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/004_CoursePlanner_AngularJS_Repeat.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/005_CoursePlanner_AngularJS_Add.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/005_CoursePlanner_AngularJS_Add.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/006_CoursePlanner_AngularJS_CheckBox.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/006_CoursePlanner_AngularJS_CheckBox.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/007_Buttons.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/007_Buttons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/008_Tables.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/008_Tables.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/009_Grid.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/009_Grid.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/010_Forms.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/010_Forms.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Libraries/angular.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Libraries/angular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Libraries/bootstrap-theme.css" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Libraries/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Libraries/bootstrap.css" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Libraries/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Task/Task1.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Task/Task1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Task/Task2.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Task/Task2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Task/model.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Task/model.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/Introduction/Task/todo.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/Task/todo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AngularJS.iml" afterPath="$PROJECT_DIR$/.idea/AngularJS.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/002_Template-Derectives (Presentation).xps" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/002_Template-Derectives (Presentation).xps" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/002_Template-Derectives.xps" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/002_Template-Derectives.xps" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/01_DataBindings/001_OneWayDataBinding.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/01_DataBindings/001_OneWayDataBinding.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/01_DataBindings/002_TwoWayDataBinding.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/01_DataBindings/002_TwoWayDataBinding.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/001_NgRepeat.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/001_NgRepeat.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/002_RepeatingProperties.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/002_RepeatingProperties.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/003_RepeateKeyValue.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/003_RepeateKeyValue.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/004_$index.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/004_$index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/005_EvenOdd.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/005_EvenOdd.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/006_FirstLast.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/006_FirstLast.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/007_RepeateTemplate.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/007_RepeateTemplate.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/02_TemplateDirectives/008_NgCloack.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/02_TemplateDirectives/008_NgCloack.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/03_Options/001_NgOptions.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/03_Options/001_NgOptions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/03_Options/002_NgOptions.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/03_Options/002_NgOptions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/01_ng-include/app.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/01_ng-include/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/01_ng-include/index.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/01_ng-include/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/01_ng-include/table.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/01_ng-include/table.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/app.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/index.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/list.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/list.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/table.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/02_ng-include/table.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/03_ng-switch/app.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/03_ng-switch/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/04_Partial_views/03_ng-switch/index.html" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/04_Partial_views/03_ng-switch/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/Libraries/angular.js" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/Libraries/angular.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/Libraries/bootstrap-theme.css" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/Libraries/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Esential/TemplateDerectives/Samples/Libraries/bootstrap.css" afterPath="$PROJECT_DIR$/ITVDN.angular.esential/TemplateDerectives/Samples/Libraries/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javaScriptLearn.angular-course" afterPath="$PROJECT_DIR$/javaScriptLearn.angular-course" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ITVDN.angular.esential/Introduction/000_HelloWorld.html" />
       </list>
     </option>
   </component>
@@ -126,6 +134,34 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaScriptLearn.angular-course" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularJS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITVDN.angular.esential" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -142,6 +178,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ITVDN.angular.esential" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,18 +207,17 @@
       <option name="presentableId" value="Default" />
       <updated>1505039641857</updated>
       <workItem from="1505039643767" duration="705000" />
-      <workItem from="1507395304382" duration="221000" />
+      <workItem from="1507395304382" duration="407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="926000" />
+    <option name="totallyTimeSpent" value="1112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1640" y="52" width="1680" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
